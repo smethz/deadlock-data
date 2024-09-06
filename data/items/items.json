@@ -1,0 +1,588 @@
+{
+    "weapon": [
+        {
+            "name": "Basic Magazine",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Clone Quarters",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Headshot Booster",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "High-Velocity Mag",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Hollow Point Ward",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Mosnter Rounds",
+            "cost": 500,
+            "description": "Rapid Rounds"
+        },
+        {
+            "name": "Restorative Shot",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Active Reload",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Berserker",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Kinetic Dash",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Long Range",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Melee Charge",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Mystic Shot",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Slowing Bullets",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Soul Shredder Bullets",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Swift Striker",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Fleetfoot",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Burst Fire",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Escalating Resilience",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Headhunter",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Hunter's Aura",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Intensifying Magazine",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Point Blank",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Pristine Emblem",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Sharpshooter",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Tesla Bullets",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Titanic Magazine",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Toxic Bullets",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Alchemical Fire",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Heroic Aura",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Warp Stone",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Crippling Headshot",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Frenzy",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Glass Cannon",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Lucky Shot",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Ricochet",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Siphon Bullets",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Spritual Overflow",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Silencer",
+            "cost": 7550,
+            "description": ""
+        },
+        {
+            "name": "Vampiric Burst",
+            "cost": 6300,
+            "description": ""
+        }
+    ],
+    "vitality": [
+        {
+            "name": "Enduring Spirit",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Extra Health ",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Extra Regen",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Extra Stamina",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Melee Lifesteal",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Sprint Boots",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Healing Rite",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Bullet Armor",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Bullet Lifesteal",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Combat Barrier",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Debuff Reducer",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Enchanter's Barrier",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Enduring Speed",
+            "cost": 1750,
+            "description": ""
+        },
+        {
+            "name": "Healbane",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Healing Booster",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Reactive Barrier",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Spirit Armor",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Spirit Lifesteal",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Diving Barrier",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Health Nova",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Restorative Locket",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Return Fire",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Fortitude",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Improved Bullet Armor",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Improved Spirit Armor",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Lifestrtike",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Superior Stamina",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Veil Walker",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Debuff Remover",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Majestic Leap",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Metal Skin",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Rescue Beam",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Inhibitor",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Leech",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Soul Rebirth",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Colossus",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Phantom Strike",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Shadow Weave",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Unstopabble",
+            "cost": 6300,
+            "description": ""
+        }
+    ],
+    "spirit": [
+        {
+            "name": "Ammo Scavenger",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Extra Charge",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Extra Spirit",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Mystic Burst",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Mystic Reach",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Spirit Strike",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Infuser",
+            "cost": 500,
+            "description": ""
+        },
+        {
+            "name": "Bullet Resist Shredder",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Duration Extender",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Improved Cooldown",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Mystic Vulnerability",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Quicksilver Reload",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Suppressor",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Cold Front",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Decay",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Slowing Hex",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Withering Whip",
+            "cost": 1250,
+            "description": ""
+        },
+        {
+            "name": "Improved Burst",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Improved Reach",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Improved Spirit",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Mystic Slow",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Rapid Recharge",
+            "cost": 3500,
+            "description": ""
+        },
+        {
+            "name": "Superior Cooldown",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Superior Duration",
+            "cost": 4250,
+            "description": ""
+        },
+        {
+            "name": "Surge of Power",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Torment Pulse",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Ethereal Shift",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Knockdown",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Silence Glyph",
+            "cost": 3000,
+            "description": ""
+        },
+        {
+            "name": "Boundless Spirit",
+            "cost": 9800,
+            "description": ""
+        },
+        {
+            "name": "Diviner's Kevlar",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Escalating Exposure",
+            "cost": 7550,
+            "description": ""
+        },
+        {
+            "name": "Mystic Reverb",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Curse",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Echo Shard",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Magic Carpet",
+            "cost": 6300,
+            "description": ""
+        },
+        {
+            "name": "Refresher",
+            "cost": 6300,
+            "description": ""
+        }
+    ]
+}
